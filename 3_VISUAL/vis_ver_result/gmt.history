@@ -1,0 +1,10 @@
+# GMT 5 Session common arguments shelf
+BEGIN GMT 5.2.1
+B	x0.25y+lS-abs. velocity, km/s
+J	X
+JM	M43.7/30.0
+JX	X10.8/4.0
+R	0/216.9/-80/0
+Y	-1
+L	4
+END

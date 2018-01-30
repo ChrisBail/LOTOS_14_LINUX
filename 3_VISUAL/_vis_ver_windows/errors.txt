@@ -1,0 +1,8 @@
+System.NullReferenceException: В экземпляре объекта не задана ссылка на объект.
+   в visual.Palette.getColor(Double f)
+   в visual.InputDataFile.calculate(Palette palette, Display display)
+   в visual.Contour.Paint(Graphics g, Display display, PhisArea a)
+   в visual.Form1.Main()Exception during reading config.txtor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   в System.IO.StreamReader..ctor(String path, Boolean detectEncodingFromByteOrderMarks)
+   в System.IO.File.OpenText(String path)
+   в visual.Palette..ctor(String path, Double begin, Double end, Boolean be_exist)Exception during reading palette
